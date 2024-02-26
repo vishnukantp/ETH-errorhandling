@@ -1,7 +1,3 @@
-Certainly! Below is a sample README file for the provided Solidity code:
-
----
-
 # Error Contract
 
 This Solidity smart contract, named `Error`, provides functions to check whether a given number is two digits or not.
